@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Empresa "Cigueña SAC"</string>
+    <string name="str_titulo">Tour Tacna</string>
+    <string name="str_parrafo">La heroica y encantadora ciudad de Tacna ofrece una variedad de atractivos historicos culturales que lo introduciran al Peru a travez de su riqueza y de su amor e identificacion con la patria.</string>
+    <string name="str_detalle">Precio : S/.250 -  "Duracion  : 3 dias / 2 noches - Actividades : Traslado en Bus: Lima - Tacna o Tacna - Lima.</string>
+    <string name="str_imagen">tacna</string>
+</resources>
